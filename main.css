@@ -1,6 +1,11 @@
 html{background:whitesmoke;
 }
 
-body{
+h1{
 background-color:blue;
+}
+.theMessage{
+  height: 5em;
+  width: 10em;
+  background-color: lightblue;
 }
